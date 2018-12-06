@@ -1,4 +1,6 @@
-package com.clsaa.rest.result;
+package com.clsaa.rest.result.spi;
+
+import com.clsaa.rest.result.RestResult;
 
 /**
  * 业务码提供者，客户端可以自定义实现，客户端必须提供默认构造函数

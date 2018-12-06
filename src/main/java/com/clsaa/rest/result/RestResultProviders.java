@@ -1,5 +1,6 @@
 package com.clsaa.rest.result;
 
+import com.clsaa.rest.result.spi.RestResultProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

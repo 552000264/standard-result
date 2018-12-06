@@ -1,5 +1,8 @@
-package com.clsaa.rest.result;
+package com.clsaa.rest.result.spi.impl;
 
+
+import com.clsaa.rest.result.RestResult;
+import com.clsaa.rest.result.spi.RestResultProvider;
 
 /**
  * 默认实现
